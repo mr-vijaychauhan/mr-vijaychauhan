@@ -21,13 +21,31 @@
  
 <img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
  
-I Love Coding and like to know about New Technology. ❤️ to contribute to Open Source Project to Help Code Community.
+# ❤ to Build Web Application
 
-Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
-- 🔭 I’m currently working on PHP Projects. 
-- 🌱 I’m currently learning Nodejs and React. 
-- 💬 Ask me about Programming 
+Hi, I'm Vijay — a **Full Stack Web Developer**. ❤️ to contribute to Open Source Project to Help Code Community.
+
+## I'm work on .. 💻
+
+PHP . Javascript . API . Angular . 
+
+Mysql
+
+CSS . Bootstrap . Scss. Material Css
+
+## I’m currently learning ... 🌱
+
+Nodejs . React 
+
+## My Absolute Favorites .. 💖
+
+👨‍💻 I Love **Coding**
+
+👍 I Like to know about new **Technolgy**
+
+📚 I read **Blogs** about Programming Stuff
+
 <!-- End section - Intro -->
 
 <!-- section - social media icons -->

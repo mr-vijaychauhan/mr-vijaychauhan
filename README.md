@@ -48,6 +48,8 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
 
+ ---
+
 ### Thank You & Namste 🙏
 <!-- section - social media icons -->
 

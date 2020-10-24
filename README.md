@@ -1,20 +1,18 @@
 <!-- icons  -->
 
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+[1.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/ombharatiya
-[2]: https://www.github.com/ombharatiya
-[3]: https://www.twitter.com/ombharatiya
-[4]: http://www.medium.com/@ombharatiya
-[5]: https://stackoverflow.com/users/8454203/om-bharatiya
-[6]: http://dev.to/ombharatiya
+[1]: https://www.linkedin.com/in/mr-vijaychauhan
+[2]: https://www.github.com/mr-vijaychauhan
+[3]: https://www.twitter.com/mr_vijaychauhan
+[4]: https://stackoverflow.com/story/mr.vijaychauhan
+
+<!-- section - Intro -->
 
 ### Hi there 👋, My name is Vijay
 #### I'm Full stack Web Developer
@@ -27,9 +25,16 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 - 🔭 I’m currently working on PHP Projects. 
 - 🌱 I’m currently learning Nodejs and React. 
 - 💬 Ask me about Programming 
+<!-- End section - Intro -->
 
+<!-- section - social media icons -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mr-vijaychauhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mr.vijaychauhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.vjchauhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_vijaychauhan)  
+[![linkedin mr-vijaychauhan][1.1]][1]
+[![github mr-vijaychauhan][2.1]][2]
+[![twitter mr_vijaychauhan][3.1]][3]
+[![stackoverflow mr.vijaychauhan][4.1]][4]
+
+<!-- section - social media icons -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy)

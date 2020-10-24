@@ -45,7 +45,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
-
+<p align='center'>
 ### Thank You & Namste 🙏
 <!-- section - social media icons -->
 
@@ -60,7 +60,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 ![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge)
 
-
+ </p>
 <!--<p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge">
  <p/> -->

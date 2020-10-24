@@ -1,9 +1,9 @@
 <!-- icons  -->
 
-[1.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+[1.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
 
 <!-- links to my social media accounts -->
 

@@ -20,8 +20,6 @@
  ---
  
 <img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
-
- ---
  
 I Love Coding and like to know about New Technology. ❤️ to contribute to Open Source Project to Help Code Community.
 
@@ -38,6 +36,8 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 [![github mr-vijaychauhan][2.1]][2]
 [![twitter mr_vijaychauhan][3.1]][3]
 [![stackoverflow mr.vijaychauhan][4.1]][4]
+
+ ---
 
 <!-- section - social media icons -->
 

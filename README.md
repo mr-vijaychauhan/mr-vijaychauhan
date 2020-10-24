@@ -12,7 +12,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mr-vijaychauhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mr.vijaychauhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.vjchauhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_vijaychauhan)  
-[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -23,3 +23,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan)  
 
 ![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)  
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+ <p/>

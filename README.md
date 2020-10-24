@@ -28,8 +28,7 @@ Hi, I'm Vijay — a **Full Stack Web Developer**. ❤️ to contribute to Open S
  ### I’m currently learning ...🌱
  Nodejs . React 
  
- ### My Absolute Favorites .. 💖
- I Love **Coding** , know about New **Technolgy** and **Programming Stuff**
+<!--  ### My Absolute Favorites .. 💖 I Love **Coding** , know about New **Technolgy** and **Programming Stuff** -->
 
 <!--  👍 I Like to know about new **Technolgy** -->
 

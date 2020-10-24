@@ -17,7 +17,7 @@
 ### Hi there 👋, I'm Vijay
 <img width="700" align="right" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg">
 
-
+<br />
 <img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
 <br />
 

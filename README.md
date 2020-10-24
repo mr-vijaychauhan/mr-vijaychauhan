@@ -18,6 +18,7 @@
 <img width="1000" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg">
 
  ---
+ <img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
   
 # ❤ to Build Web Application
 
@@ -36,15 +37,15 @@ CSS . Bootstrap . Scss. Material Css
 
 Nodejs . React 
 
-## My Absolute Favorites .. 💖
+<!-- ## My Absolute Favorites .. 💖
 
-👨‍💻 I Love **Coding**
+<!--  👨‍💻 I Love **Coding** -->
 
-👍 I Like to know about new **Technolgy**
+<!--  👍 I Like to know about new **Technolgy** -->
 
-📚 I read **Blogs** about Programming Stuff
+<!--  📚 I read **Blogs** about Programming Stuff -->
 
-<img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
+
 
 <!-- End section - Intro -->
 

@@ -39,17 +39,27 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
 <!-- section - social media icons -->
 
-<div style="border:1px solid #e2e2e2;backgroud:blue">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
-![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan)  
+![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
+
+### Thank You & Namste 🙏
+<!-- section - social media icons -->
+
+[![linkedin mr-vijaychauhan][1.1]][1]
+[![github mr-vijaychauhan][2.1]][2]
+[![twitter mr_vijaychauhan][3.1]][3]
+[![stackoverflow mr.vijaychauhan][4.1]][4]
+
+<!-- section - social media icons -->
+
+
 ![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge)
 
-</div>
 
 <!--<p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge">

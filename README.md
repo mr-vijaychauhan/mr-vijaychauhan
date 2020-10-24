@@ -42,8 +42,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
-
-![VIjay Chauhan's GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan)  
+![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan)  
 ![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge)
 

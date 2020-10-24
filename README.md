@@ -19,7 +19,7 @@
 <!--![I'm Full stack Web Developer]<!<!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 
-<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+<img align="left" width="150" height="150" src="">
 I Love Coding and like to know about New Technology. ❤️ to contribute to Open Source Project to Help Code Community.
 
 Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, My name is Vijay
 #### I'm Full stack Web Developer
 <!--![I'm Full stack Web Developer]<!<!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->

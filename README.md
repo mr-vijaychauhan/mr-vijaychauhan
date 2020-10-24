@@ -39,7 +39,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![mr-vijaychauhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-vijaychauhan)](https://github.com/mr-vijaychauhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
 

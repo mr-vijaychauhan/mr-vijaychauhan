@@ -25,5 +25,5 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 ![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)  
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge">
  <p/>

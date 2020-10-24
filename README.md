@@ -19,7 +19,7 @@
 <!--![I'm Full stack Web Developer]<!<!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 
-<img align="left" width="500" height="400" style="margin-bottom:50px" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/coding-time.gif">
+<img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/coding-time.gif">
 
 I Love Coding and like to know about New Technology. ❤️ to contribute to Open Source Project to Help Code Community.
 

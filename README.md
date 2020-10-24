@@ -16,7 +16,7 @@
 
 ### Hi there 👋, I'm Vijay
 ![I'm Full stack Web Developer]<!<!(https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg)
-<img src="(https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg">
+<img src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg">
 
 
 <img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">

@@ -57,7 +57,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 <!-- section - social media icons -->
 
 
-![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)
+<center>![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)</center>
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge)
 
 <!--<p align='center'>

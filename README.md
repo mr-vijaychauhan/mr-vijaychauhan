@@ -19,7 +19,7 @@
 
  ---
  
-<img align="left" width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
+<img  width="500" height="400" style="max-width:100%;padding: 10px;" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
   
 ## ❤ to Build Web Application
 Hi, I'm Vijay **Full Stack Web Developer**. ❤️ to contribute to Open Source Project to Help Code Community.

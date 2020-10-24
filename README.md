@@ -22,13 +22,13 @@
 ## ❤ to Build Web Application
 Hi, I'm Vijay — a **Full Stack Web Developer**. ❤️ to contribute to Open Source Project to Help Code Community.
 
- ## I'm work on ...💻
+ ### I'm work on ...💻
  PHP . Javascript . API . Angular . Mysql . CSS . Bootstrap . Scss. Material Css
 
  ### I’m currently learning ...🌱
  Nodejs . React 
-
-<!-- ## My Absolute Favorites .. 💖
+ 
+ ## My Absolute Favorites .. 💖
 
 <!--  👨‍💻 I Love **Coding** -->
 

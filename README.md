@@ -40,7 +40,7 @@ Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular
 
 <!-- section - social media icons -->
 
-<div style="border:1px solid #e2e2e2">
+<div style="border:1px solid #e2e2e2;backgroud:blue">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan)](https://github.com/anuraghazra/github-readme-stats)  -->

@@ -20,6 +20,7 @@
 
 
 <img align="left" width="500" height="400" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/coding-time.gif">
+
 I Love Coding and like to know about New Technology. ❤️ to contribute to Open Source Project to Help Code Community.
 
 Skills: Js / PHP / Javascript / HTML / CSS / SASS / Angular

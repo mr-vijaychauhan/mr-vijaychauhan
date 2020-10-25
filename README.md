@@ -23,7 +23,7 @@
   
 ## ❤ to Build Web Application
  ### I'm work on ...💻
- PHP . Javascript . API . Angular . Mysql . CSS . Bootstrap . Scss. Material Css
+ PHP . Javascript . API . Angular . Mysql . CSS . Bootstrap . Sass. Material Css
 
  ### I’m currently learning ...🌱
  Nodejs . React 

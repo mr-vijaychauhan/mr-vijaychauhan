@@ -28,8 +28,8 @@
  ### I’m currently learning ...🌱
  Nodejs . React 
  
-### My Absolute Favorites .. 
-💖 I Love **Coding** , know about New **Technology** and **Programming Stuff**
+### My Absolute Favorites ..💖
+I Love **Coding** , know about New **Technology** and **Programming Stuff**
 <!--💖 I Love **Coding**
 👍 I Like to know about new **Technolgy**
 📚 I read **Blogs** about  -->

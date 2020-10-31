@@ -54,6 +54,7 @@ I Love **Coding** , know about New **Technology** and **Programming Stuff**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact)](https://github.com/mr-vijaychauhan/github-readme-stats)
 
  ---
 

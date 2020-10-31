@@ -47,7 +47,7 @@ I Love **Coding** , know about New **Technology** and **Programming Stuff**
 
 <!-- section - social media icons -->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) --
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 

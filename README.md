@@ -28,7 +28,7 @@
  Nodejs . React 
  
 ### My Absolute Favorites ..💖
-I Love **Coding** , excited tp know about New **Technology** and **Programming Stuff**
+I Love **Coding** , excited to know about New **Technology** and **Programming Stuff**
 <!--💖 I Love **Coding**
 👍 I Like to know about new **Technolgy**
 📚 I read **Blogs** about  -->

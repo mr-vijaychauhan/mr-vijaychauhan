@@ -15,7 +15,7 @@
 <!-- section - Intro -->
 
 ### Hi there 👋, I'm Vijay
-<img width="1000" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/portfolio-banner.jpg">
+<img width="1000" src="assets/github-cover.jpg">
 
  ---
  

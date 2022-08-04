@@ -19,7 +19,7 @@
 
  ---
  
-<img align="right" width="" height="350" src="https://raw.githubusercontent.com/mr-vijaychauhan/mr-vijaychauhan/main/assets/1584023795.png">
+<img align="right" width="" height="350" src="assets/programmer.jpg">
   
 ## ❤ to Build Web Application
  ### I'm work on ...💻

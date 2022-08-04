@@ -19,7 +19,7 @@
 
  ---
  
-<img align="right" width="" height="350" src="assets/programmer.jpg">
+<img align="left" width="" height="350" src="assets/programmer.jpg">
   
 ## ❤ to Build Web Application
  ### I'm work on ...💻

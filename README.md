@@ -19,7 +19,7 @@
 
  ---
  
-<img align="left" width="400" height="350" src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif">
+<img align="left" width="400" height="350" src="[https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif](https://vjchauhan.com/static/media/1584023795.7dcba28e5dee4bf603bc.png)">
   
 ## ❤ to Build Web Application
  ### I'm work on ...💻

@@ -19,7 +19,7 @@
 
  ---
  
-<img align="left" width="400" height="350" src="[https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/let's-coding.gif](https://vjchauhan.com/static/media/1584023795.7dcba28e5dee4bf603bc.png)">
+<img align="right" width="" height="350" src="https://raw.githubusercontent.com/mr-vijaychauhan/mr-vijaychauhan/main/assets/1584023795.png">
   
 ## ❤ to Build Web Application
  ### I'm work on ...💻
@@ -48,10 +48,10 @@ I Love **Coding** , excited to know about New **Technology** and **Programming S
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true&theme=github_dark)  
 ![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
  ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact)](https://github.com/mr-vijaychauhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact&theme=github_dark)](https://github.com/mr-vijaychauhan/github-readme-stats)
 
  ---
 

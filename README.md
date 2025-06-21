@@ -49,15 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/mr-vijaychauhan" alt="Metrics" />
-</p>
-
 ---
 
 ## ✨ Thank You & Namaste 🙏
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/mr-vijaychauhan" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge" alt="Visitor Count" />
-</p>

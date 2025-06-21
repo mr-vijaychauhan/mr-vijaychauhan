@@ -1,74 +1,63 @@
-<!-- icons  -->
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Vijay Chauhan</h1>
+<p align="center">
+  <img src="assets/github-cover.jpg" width="1000" alt="Vijay Chauhan - GitHub Cover"/>
+</p>
 
-[1.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+---
 
-<!-- links to my social media accounts -->
+## 👨‍💻 About Me
 
-[1]: https://www.linkedin.com/in/mr-vijaychauhan
-[2]: https://www.github.com/mr-vijaychauhan
-[3]: https://www.twitter.com/mr_vijaychauhan
-[4]: https://stackoverflow.com/story/mr.vijaychauhan
+<img align="right" src="assets/programmer.jpg" width="300" />
 
-<!-- section - Intro -->
+- 💻 I love building **Web Applications**
+- 👨‍💼 I'm a Full Stack Developer with experience in **PHP**, **JavaScript**, **MySQL**, and **REST APIs**
+- 🛠️ Frontend Tech: **HTML**, **CSS**, **Bootstrap**, **Sass**, **Material Design**
+- 🔧 Backend Tech: **PHP**, **MySQL**, **Laravel**
+- 📚 Currently learning: **Node.js**, **React.js**
+- 💬 Ask me about: **API Integration**, **Angular**, **UI Design**, and **Clean Code Practices**
+- 🧠 I’m passionate about **learning new technologies**, reading **blogs**, and contributing to **open-source**
 
-### Hi there 👋, I'm Vijay
-<img width="1000" src="assets/github-cover.jpg">
+---
 
- ---
- 
-<img align="left" width="" height="350" src="assets/programmer.jpg">
-  
-## ❤ to Build Web Application
- ### I'm work on ...💻
- PHP . Javascript . API . Angular . Mysql . HTML . CSS . Bootstrap . Sass. Material Design
- ### I’m currently learning ...🌱
- Nodejs . React 
- 
-### My Absolute Favorites ..💖
-I Love **Coding** , excited to know about New **Technology** and **Programming Stuff**
-<!--💖 I Love **Coding**
-👍 I Like to know about new **Technolgy**
-📚 I read **Blogs** about  -->
+## 🌐 Connect with Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mr-vijaychauhan" target="_blank">
+    <img src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-linkedin-48.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mr-vijaychauhan" target="_blank">
+    <img src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-github-48.png" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/mr_vijaychauhan" target="_blank">
+    <img src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-twitter-48.png" alt="Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/story/mr.vijaychauhan" target="_blank">
+    <img src="https://github.com/mr-vijaychauhan/mr-vijaychauhan/blob/main/assets/icons/icons8-stack-overflow-48.png" alt="StackOverflow" />
+  </a>
+</p>
 
+---
 
-<!-- End section - Intro -->
+## 🏆 GitHub Stats
 
-<!-- section - social media icons -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
-[![linkedin mr-vijaychauhan][1.1]][1]
-[![github mr-vijaychauhan][2.1]][2]
-[![twitter mr_vijaychauhan][3.1]][3]
-[![stackoverflow mr.vijaychauhan][4.1]][4]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-<!-- section - social media icons -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/mr-vijaychauhan" alt="Metrics" />
+</p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-vijaychauhan)](https://github.com/ryo-ma/github-profile-trophy) -->
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vijaychauhan&show_icons=true&theme=github_dark)  
-![GitHub metrics](https://metrics.lecoq.io/mr-vijaychauhan) 
- ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vijaychauhan&layout=compact&theme=github_dark)](https://github.com/mr-vijaychauhan/github-readme-stats)
+## ✨ Thank You & Namaste 🙏
 
- ---
-
-### Thank You & Namste 🙏
-<!-- section - social media icons -->
-
-[![linkedin mr-vijaychauhan][1.1]][1]
-[![github mr-vijaychauhan][2.1]][2]
-[![twitter mr_vijaychauhan][3.1]][3]
-[![stackoverflow mr.vijaychauhan][4.1]][4]
-
-<!-- section - social media icons -->
-
-
-![Profile views](https://gpvc.arturio.dev/mr-vijaychauhan)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge)
-
-<!--<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge">
- <p/> -->
+<p align="center">
+  <img src="https://gpvc.arturio.dev/mr-vijaychauhan" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mr-vijaychauhan.visitor-badge" alt="Visitor Count" />
+</p>
